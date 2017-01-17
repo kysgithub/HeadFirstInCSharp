@@ -1,0 +1,13 @@
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.exe.config
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\ContactsDB.sdf
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.exe.manifest
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.application
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.exe.manifest
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.application

@@ -1,0 +1,7 @@
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\bin\Debug\P66.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\bin\Debug\P66.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\obj\x86\Debug\P66.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\obj\x86\Debug\P66.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\obj\x86\Debug\P66.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\obj\x86\Debug\P66.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P66\obj\x86\Debug\P66.pdb

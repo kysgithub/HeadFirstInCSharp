@@ -11,3 +11,4 @@ D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\D
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\bin\Debug\Contacts.application
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.exe.manifest
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.application
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch01\Contacts\obj\x86\Debug\Contacts.csprojResolveAssemblyReference.cache

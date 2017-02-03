@@ -5,3 +5,10 @@ D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\P75\obj\x86\Debug\P
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\P75\obj\x86\Debug\P75.csproj.GenerateResource.Cache
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\P75\obj\x86\Debug\P75.exe
 D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\P75\obj\x86\Debug\P75.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\bin\Debug\P75.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\bin\Debug\P75.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\obj\x86\Debug\P75.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\obj\x86\Debug\P75.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\obj\x86\Debug\P75.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\obj\x86\Debug\P75.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch02\P75\obj\x86\Debug\P75.pdb

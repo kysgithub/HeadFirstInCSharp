@@ -1,0 +1,7 @@
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\bin\Debug\P147-Swap.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\bin\Debug\P147-Swap.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\obj\x86\Debug\P147_Swap.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\obj\x86\Debug\P147_Swap.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\obj\x86\Debug\P147-Swap.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\obj\x86\Debug\P147-Swap.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P147-Swap\obj\x86\Debug\P147-Swap.pdb

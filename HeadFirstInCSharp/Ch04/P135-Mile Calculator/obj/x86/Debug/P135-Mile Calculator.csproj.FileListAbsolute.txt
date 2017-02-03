@@ -1,0 +1,7 @@
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\bin\Debug\P135-Mile Calculator.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\bin\Debug\P135-Mile Calculator.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\obj\x86\Debug\P135_Mile_Calculator.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\obj\x86\Debug\P135_Mile_Calculator.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\obj\x86\Debug\P135-Mile Calculator.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\obj\x86\Debug\P135-Mile Calculator.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P135-Mile Calculator\obj\x86\Debug\P135-Mile Calculator.pdb

@@ -1,0 +1,8 @@
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\bin\Debug\P152-Sloppy Joe's Menu.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\bin\Debug\P152-Sloppy Joe's Menu.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152_Sloppy_Joe_s_Menu.Form1.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152_Sloppy_Joe_s_Menu.Properties.Resources.resources
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152-Sloppy Joe's Menu.csproj.GenerateResource.Cache
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152-Sloppy Joe's Menu.exe
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152-Sloppy Joe's Menu.pdb
+D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P152-Sloppy Joe's Menu\obj\x86\Debug\P152-Sloppy Joe's Menu.csprojResolveAssemblyReference.cache

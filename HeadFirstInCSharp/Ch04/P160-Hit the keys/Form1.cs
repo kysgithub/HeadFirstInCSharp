@@ -13,6 +13,7 @@ namespace P160_Hit_the_keys
     {
         Random random = new Random();
         Stats stats = new Stats();
+        string test = "test ignorelist";
         public Form1()
         {
             InitializeComponent();

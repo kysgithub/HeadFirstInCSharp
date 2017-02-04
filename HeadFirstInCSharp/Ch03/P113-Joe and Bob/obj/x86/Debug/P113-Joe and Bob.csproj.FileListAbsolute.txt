@@ -1,7 +1,0 @@
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\bin\Debug\P113-Joe and Bob.exe
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\bin\Debug\P113-Joe and Bob.pdb
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\obj\x86\Debug\P113_Joe_and_Bob.Form1.resources
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\obj\x86\Debug\P113_Joe_and_Bob.Properties.Resources.resources
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\obj\x86\Debug\P113-Joe and Bob.csproj.GenerateResource.Cache
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\obj\x86\Debug\P113-Joe and Bob.exe
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch03\P113-Joe and Bob\obj\x86\Debug\P113-Joe and Bob.pdb

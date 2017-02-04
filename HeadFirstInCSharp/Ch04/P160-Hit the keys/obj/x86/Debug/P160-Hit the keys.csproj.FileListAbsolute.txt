@@ -1,7 +1,0 @@
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\bin\Debug\P160-Hit the keys.exe
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\bin\Debug\P160-Hit the keys.pdb
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\obj\x86\Debug\P160_Hit_the_keys.Form1.resources
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\obj\x86\Debug\P160_Hit_the_keys.Properties.Resources.resources
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\obj\x86\Debug\P160-Hit the keys.csproj.GenerateResource.Cache
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\obj\x86\Debug\P160-Hit the keys.exe
-D:\VS2010 Projects\HeadFirstInCSharp\trunk\HeadFirstInCSharp\Ch04\P160-Hit the keys\obj\x86\Debug\P160-Hit the keys.pdb

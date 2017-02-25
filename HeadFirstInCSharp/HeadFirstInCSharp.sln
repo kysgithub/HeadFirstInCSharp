@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P160-Hit the keys", "Ch04\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P169-Labs-A Day at the Races", "Ch04\P169-Labs-A Day at the Races\P169-Labs-A Day at the Races.csproj", "{1B2B8A99-281F-4A1E-87B6-08AD2D32453B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P182-Party Planner", "Ch05\P182-Party Planner\P182-Party Planner.csproj", "{D98920E1-98E9-40A9-AAFB-E3147333E914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P204-Cow Calculator", "Ch05\P204-Cow Calculator\P204-Cow Calculator.csproj", "{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -63,6 +67,14 @@ Global
 		{1B2B8A99-281F-4A1E-87B6-08AD2D32453B}.Debug|x86.Build.0 = Debug|x86
 		{1B2B8A99-281F-4A1E-87B6-08AD2D32453B}.Release|x86.ActiveCfg = Release|x86
 		{1B2B8A99-281F-4A1E-87B6-08AD2D32453B}.Release|x86.Build.0 = Release|x86
+		{D98920E1-98E9-40A9-AAFB-E3147333E914}.Debug|x86.ActiveCfg = Debug|x86
+		{D98920E1-98E9-40A9-AAFB-E3147333E914}.Debug|x86.Build.0 = Debug|x86
+		{D98920E1-98E9-40A9-AAFB-E3147333E914}.Release|x86.ActiveCfg = Release|x86
+		{D98920E1-98E9-40A9-AAFB-E3147333E914}.Release|x86.Build.0 = Release|x86
+		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Debug|x86.ActiveCfg = Debug|x86
+		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Debug|x86.Build.0 = Debug|x86
+		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Release|x86.ActiveCfg = Release|x86
+		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

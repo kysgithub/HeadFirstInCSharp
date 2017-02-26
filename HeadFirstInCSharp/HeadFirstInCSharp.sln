@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P182-Party Planner", "Ch05\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P204-Cow Calculator", "Ch05\P204-Cow Calculator\P204-Cow Calculator.csproj", "{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P218-Party Planner 2.0", "Ch06\P218-Party Planner 2.0\P218-Party Planner 2.0.csproj", "{28F887D5-E3A2-4B5F-860C-870C770ED1A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -75,6 +77,10 @@ Global
 		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Debug|x86.Build.0 = Debug|x86
 		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Release|x86.ActiveCfg = Release|x86
 		{F7FE6EF8-DFB4-48BE-9068-404BC5994AF5}.Release|x86.Build.0 = Release|x86
+		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Debug|x86.ActiveCfg = Debug|x86
+		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Debug|x86.Build.0 = Debug|x86
+		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Release|x86.ActiveCfg = Release|x86
+		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -30,7 +30,7 @@ namespace P251_Party_Planner_3
 
             this.dinnerPeople.ValueChanged += (sender, e) =>
             {
-                dinnerParty.SetPartyOptions((int)((NumericUpDown)sender).Value, this.dinnerFancyDecorations.Checked);
+                dinnerParty.NumberOfPeople = ((int)((NumericUpDown)sender).Value);
                 DisplayDinnerPartyCost();
             };
             this.dinnerFancyDecorations.CheckStateChanged += (sender, e) =>

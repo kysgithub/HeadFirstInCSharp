@@ -37,13 +37,13 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.birthdayCakeWriting = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.birthdayCost = new System.Windows.Forms.Label();
             this.birthdayPeople = new System.Windows.Forms.NumericUpDown();
             this.label5 = new System.Windows.Forms.Label();
             this.birthdayFancyDecorations = new System.Windows.Forms.CheckBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.birthdayCakeWriting = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dinnerPeople)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -165,6 +165,23 @@
             this.tabPage2.Text = "Birthday";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // birthdayCakeWriting
+            // 
+            this.birthdayCakeWriting.Location = new System.Drawing.Point(17, 122);
+            this.birthdayCakeWriting.Name = "birthdayCakeWriting";
+            this.birthdayCakeWriting.Size = new System.Drawing.Size(120, 21);
+            this.birthdayCakeWriting.TabIndex = 13;
+            this.birthdayCakeWriting.Text = "Happy Birthday";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(15, 99);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(77, 12);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "Cake writing";
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -225,23 +242,6 @@
             this.birthdayFancyDecorations.Text = "Fancy Decorations";
             this.birthdayFancyDecorations.UseVisualStyleBackColor = true;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(15, 99);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(77, 12);
-            this.label6.TabIndex = 12;
-            this.label6.Text = "Cake writing";
-            // 
-            // birthdayCakeWriting
-            // 
-            this.birthdayCakeWriting.Location = new System.Drawing.Point(17, 122);
-            this.birthdayCakeWriting.Name = "birthdayCakeWriting";
-            this.birthdayCakeWriting.Size = new System.Drawing.Size(120, 21);
-            this.birthdayCakeWriting.TabIndex = 13;
-            this.birthdayCakeWriting.Text = "Happy Birthday";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -251,7 +251,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Party Planner 2.0";
+            this.Text = "Party Planner 3.0";
             ((System.ComponentModel.ISupportInitialize)(this.dinnerPeople)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);

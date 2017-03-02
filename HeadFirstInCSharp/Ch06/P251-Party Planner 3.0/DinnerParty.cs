@@ -5,30 +5,16 @@ using System.Text;
 
 namespace P251_Party_Planner_3
 {
-    class DinnerParty
+    class DinnerParty : Party
     {
-        public const int CostOfFoodPerPerson = 25;
-        private int numberOfPeople;
-        decimal CostOfBeveragesPerPerson;
-        decimal CostOfDecorations;
+        public decimal CostOfBeveragesPerPerson;
         bool HealthyOption;
 
-        public DinnerParty(int numberOfPeople, bool healthy, bool fancy)
+        public DinnerParty(int numberOfPeople, bool fancyDecorations, bool healthyOption)
+            : base(numberOfPeople, fancyDecorations)
         {
-            SetPartyOptions(numberOfPeople, fancy);
-            SetHealthyOption(healthy);
-        }
-
-
-        public void SetPartyOptions(int people, bool fancy)
-        {
-            numberOfPeople = people;
-            CalculateCostOfDecorations(fancy);
-        }
-
-        public int GetNumberOfPeople()
-        {
-            return numberOfPeople;
+            SetHealthyOption(healthyOption);
+            CalculateCostOfDecorations(fancyDecorations);
         }
 
         public void SetHealthyOption(bool healthyOption)
@@ -36,14 +22,11 @@ namespace P251_Party_Planner_3
             CostOfBeveragesPerPerson = (this.HealthyOption = healthyOption) ? 5m : 20m;
         }
 
-        public void CalculateCostOfDecorations(bool fancyDecoration)
+        public decimal CalculateCost(bool healthyOption)
         {
-            CostOfDecorations = fancyDecoration ? (decimal)(numberOfPeople * 15m + 50m) : (decimal)(numberOfPeople * 7.5m + 30m);
+            return (base.CalculateCost() + (CostOfBeveragesPerPerson * NumberOfPeople))
+                * (healthyOption ? .95m : 1m);
         }
 
-        public decimal CalculateCost()
-        {
-            return (numberOfPeople * (CostOfFoodPerPerson + CostOfBeveragesPerPerson) + CostOfDecorations) * (decimal)(HealthyOption ? (1m - .05m) : 1m) + numberOfPeople > 12 ? 100 : 0;
-        }
     }
 }

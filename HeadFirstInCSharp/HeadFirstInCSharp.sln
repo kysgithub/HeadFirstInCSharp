@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P204-Cow Calculator", "Ch05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P218-Party Planner 2.0", "Ch06\P218-Party Planner 2.0\P218-Party Planner 2.0.csproj", "{28F887D5-E3A2-4B5F-860C-870C770ED1A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P242-JewelThief", "Ch06\P242-JewelThief\P242-JewelThief.csproj", "{7D64CC54-320D-45EB-9D1C-A99C9060FBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P251-Party Planner 3.0", "Ch06\P251-Party Planner 3.0\P251-Party Planner 3.0.csproj", "{275F9775-0EED-490D-88A8-3F80D79FFDE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -81,6 +85,14 @@ Global
 		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Debug|x86.Build.0 = Debug|x86
 		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Release|x86.ActiveCfg = Release|x86
 		{28F887D5-E3A2-4B5F-860C-870C770ED1A1}.Release|x86.Build.0 = Release|x86
+		{7D64CC54-320D-45EB-9D1C-A99C9060FBE4}.Debug|x86.ActiveCfg = Debug|x86
+		{7D64CC54-320D-45EB-9D1C-A99C9060FBE4}.Debug|x86.Build.0 = Debug|x86
+		{7D64CC54-320D-45EB-9D1C-A99C9060FBE4}.Release|x86.ActiveCfg = Release|x86
+		{7D64CC54-320D-45EB-9D1C-A99C9060FBE4}.Release|x86.Build.0 = Release|x86
+		{275F9775-0EED-490D-88A8-3F80D79FFDE6}.Debug|x86.ActiveCfg = Debug|x86
+		{275F9775-0EED-490D-88A8-3F80D79FFDE6}.Debug|x86.Build.0 = Debug|x86
+		{275F9775-0EED-490D-88A8-3F80D79FFDE6}.Release|x86.ActiveCfg = Release|x86
+		{275F9775-0EED-490D-88A8-3F80D79FFDE6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

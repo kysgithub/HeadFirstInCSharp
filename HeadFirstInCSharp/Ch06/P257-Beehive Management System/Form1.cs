@@ -31,8 +31,7 @@ namespace P257_Beehive_Management_System
                 //    MessageBox.Show("No workers are available to do the job '"
                 //        + workerBeeJob.Text + "'", "The queen bee says...");
 
-                MessageBox.Show(String.Format(@"{0}",
-                    (queen.AssignWork(workerBeeJob.Text, (int)shifts.Value) ?
+                MessageBox.Show(String.Format(@"{0}", (queen.AssignWork(workerBeeJob.Text, (int)shifts.Value) ?
                     ("The job '" + workerBeeJob.Text + "' will be done in " + shifts.Value + " shifts")
                     : ("No workers are available to do the job '" + workerBeeJob.Text + "'"))),
                     "The queen bee says...");
